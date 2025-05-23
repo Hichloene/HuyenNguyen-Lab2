@@ -138,3 +138,20 @@ Instructions:
 7. Spoon the batter evenly into the mini muffin cups (about 3/4 full).
 8. Bake for 12–15 minutes, or until a toothpick inserted comes out mostly clean.
 9. Let cool in pan for 5 minutes, then transfer to wire rack.
+
+### Lemon Iced Tea
+Ingredients:
+
+- 4 cups water
+- 4 black tea bags
+- 1/3 cup sugar (adjust to taste)
+- 1/4 cup lemon juice
+- Ice cubes
+- Lemon slices (for garnish)
+
+Instructions:
+1. Boil 2 cups of water, then steep the tea bags for 5 minutes.
+2. Remove tea bags and stir in sugar until dissolved.
+3. Add 2 cups cold water and lemon juice. Stir well.
+4. Chill in the refrigerator.
+5. Serve over ice with lemon slices.
