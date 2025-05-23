@@ -113,3 +113,27 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Chewy Brownie Bites
+
+Ingredients:
+- 1/2 cup (1 stick) unsalted butter, melted
+- 1 cup white sugar
+- 2 eggs
+- 1 tsp vanilla extract
+- 1/3 cup unsweetened cocoa powder
+- 1/2 cup all-purpose flour
+- 1/4 tsp salt
+- 1/4 tsp baking powder
+- 1/2 cup semisweet chocolate chips (optional)
+
+Instructions:
+1. Preheat oven to 350°F (175°C). Grease or line a mini muffin tin.
+2. In a large bowl, mix melted butter and sugar until well combined.
+3. Beat in eggs, one at a time, then add vanilla.
+4. In a separate bowl, whisk together cocoa powder, flour, salt, and baking powder.
+5. Gradually mix the dry ingredients into the wet mixture until smooth.
+6. Stir in chocolate chips, if using.
+7. Spoon the batter evenly into the mini muffin cups (about 3/4 full).
+8. Bake for 12–15 minutes, or until a toothpick inserted comes out mostly clean.
+9. Let cool in pan for 5 minutes, then transfer to wire rack.
