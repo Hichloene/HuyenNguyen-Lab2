@@ -141,7 +141,6 @@ Instructions:
 
 ### Lemon Iced Tea
 Ingredients:
-
 - 4 cups water
 - 4 black tea bags
 - 1/3 cup sugar (adjust to taste)
